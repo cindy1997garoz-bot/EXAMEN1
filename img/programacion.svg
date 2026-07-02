@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title desc">
+  <title id="title">Programacion</title>
+  <desc id="desc">Monitor con codigo y simbolos de programacion</desc>
+  <rect width="720" height="460" fill="#f7fbff"/>
+  <circle cx="608" cy="92" r="54" fill="#ffd166"/>
+  <circle cx="98" cy="365" r="72" fill="#8ecae6"/>
+  <rect x="105" y="74" width="510" height="306" rx="20" fill="#223046"/>
+  <rect x="131" y="102" width="458" height="232" rx="10" fill="#101827"/>
+  <rect x="268" y="380" width="184" height="28" fill="#5c6f82"/>
+  <rect x="219" y="408" width="282" height="22" rx="11" fill="#223046"/>
+  <text x="174" y="178" fill="#7dd3fc" font-family="Consolas, monospace" font-size="42">&lt;/&gt;</text>
+  <rect x="280" y="151" width="228" height="16" rx="8" fill="#34d399"/>
+  <rect x="280" y="189" width="182" height="16" rx="8" fill="#f472b6"/>
+  <rect x="176" y="238" width="326" height="14" rx="7" fill="#93c5fd"/>
+  <rect x="176" y="274" width="258" height="14" rx="7" fill="#fbbf24"/>
+  <path d="M590 328c-55 36-128 39-198 8" fill="none" stroke="#ff6b6b" stroke-width="10" stroke-linecap="round"/>
+</svg>
